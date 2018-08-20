@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="Single">Single</string>
+    <string name="Doublee">Double</string>
+    <string name="Six">Six</string>
+    <string name="Boundry">Boundry</string>
+    <string name="TeamA">TeamA</string>
+    <string name="TeamB">TeamB</string>
+    <string name="newgame">New Game</string>
+</resources>
